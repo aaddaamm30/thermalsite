@@ -1,0 +1,19 @@
+# Webstorm
+.idea/
+
+# Vue.js
+node_modules/
+dist/
+
+# Intellij
+*.iml
+
+# npm
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+#PROJECT FILES
+credentials.txt
